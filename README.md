@@ -1,2 +1,2 @@
-# D2L deep learning related stuff
- created for my dl code will have pytorch mainly 
+# Deep Learning
+Mainly contain what i learned through YT and D2L website for deeplearning.
